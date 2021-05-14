@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+8Q1+DrGi8/+BZ5RIoU5D0hsYHY3C9leOARRoT3lUJ4vHvH6M0oLlcHYdEMMev0s9RENf2HVukihak0inyC8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Елена\\Desktop\\LabWork1TC\\LabWork1TC\\LabWork1TC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Елена\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
